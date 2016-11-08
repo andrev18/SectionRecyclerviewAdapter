@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="150dp">
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="   Erau odată un moşneag şi-o babă; şi moşneagul avea o fată, şi baba iar o fată. Fata babei era slută, leneşă, ţâfnoasă şi rea la inimă; dar, pentru că era fata mamei, se alinta cum s-alintă cioara-n laţ, lăsând tot greul pe fata moşneagului. Fata moşneagului însă era frumoasă, harnică, ascultătoare şi bună la inimă. Dumnezeu o împodobise cu toate darurile cele bune şi frumoase. Dar această fată bună era horopsită şi de sora cea de scoarţă, şi de mama cea vitregă; noroc de la Dumnezeu că era o fată robace şi răbdătoare; căci altfel…"/>
+
+</LinearLayout>
